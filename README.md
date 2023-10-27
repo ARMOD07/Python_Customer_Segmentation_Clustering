@@ -1,4 +1,4 @@
-# Python_Customer_Segmentation_Clustering
+# Python_Customer_Segmentation_Clustering KMeans
 
 chargé les données depuis un fichier CSV appelé "Mall_Customers.csv" à l'aide de la bibliothèque Pandas.
 
